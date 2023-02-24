@@ -1,0 +1,6 @@
+.swiper-slide-active {
+  width: 500px !important;
+}
+.swiper-wrapper{
+  align-items: center;
+}
